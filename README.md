@@ -26,8 +26,8 @@
     - [Definições](#definições)
   - [Escopo do produto](#escopo-do-produto)
 - [Posicionamento](#posicionamento)
-  - [Oportunidade de negócios](#oportunidade-de-negócios)
-  - [Descrição dos benefícios para os clientes e dos problemas resolvidos](#descrição-dos-benefícios-para-os-clientes-e-dos-problemas-resolvidos)
+  - [Oportunidade de negócios](#serviços-disponíveis)
+  - [Descrição dos benefícios para os clientes e dos problemas resolvidos](#descrição-dos-benefícios-para-os-usuários-e-dos-problemas-resolvidos)
 - [Descrição dos stakeholders e dos usuários](#descrição-dos-stakeholders-e-dos-usuários)
   - [Stakeholders](#stakeholders)
   - [Usuários e atores](#usuários-e-atores)
@@ -87,7 +87,7 @@ O **Sistema de Recrutamento e Seleção - ContratAe** apresenta várias oportuni
 3. **Parcerias com empresas**: o ContratAe oferece programas de bolsas de estudo em parceria com empresas para capacitar candidatos para o mercado de trabalho. 
 4. **Expansão para outros mercados**: o ContratAe atualmente opera apenas no setor tecnológico, mas os serviços podem ser expandidos para outras áreas.
 
-## Descrição dos benefícios para os candidatos e dos problemas resolvidos
+## Descrição dos benefícios para os usuários e dos problemas resolvidos
 
 | Benefícios                               | Problemas Resolvidos                                                                                       | Afetados                                   |
 | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
